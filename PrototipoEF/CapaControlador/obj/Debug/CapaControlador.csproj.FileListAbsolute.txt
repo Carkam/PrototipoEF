@@ -1,0 +1,18 @@
+D:\caanc\Desktop\PrototipoEF\CapaControlador\bin\Debug\CapaControlador.dll
+D:\caanc\Desktop\PrototipoEF\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\caanc\Desktop\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\caanc\Desktop\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\caanc\Desktop\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.dll
+D:\caanc\Desktop\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\caanc\Desktop\PrototipoEF\CapaControlador\bin\Debug\CapaModelo.dll
+D:\caanc\Desktop\PrototipoEF\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\caanc\Desktop\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\bin\Debug\CapaControlador.dll
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\bin\Debug\CapaModelo.dll
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.dll
+D:\caanc\Desktop\Examen Final\PrototipoEF\CapaControlador\obj\Debug\CapaControlador.pdb
